@@ -4,7 +4,7 @@
 
 This theme is a fork of [terminate-ui](https://github.com/keithalpichi/terminate-ui "terminate-ui on GitHub"), which is inspired by Apple's green default Terminal profile. There's not much of a difference between this fork and the original theme, just a few tweaks I thought I'd share with the world.
 
-I'll publish it as an official Atom package soon. Please check out the [terminate-ui repo](https://github.com/keithalpichi/terminate-ui "terminate-ui on GitHub") for more info on the original theme.
+I'll publish it as an official Atom theme soon. Please check out the [terminate-ui repo](https://github.com/keithalpichi/terminate-ui "terminate-ui on GitHub") for more info on the original theme.
 
 ### Screenshots
 
