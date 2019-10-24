@@ -1,0 +1,48 @@
+{
+  "_from": "https://www.atom.io/api/packages/terminate-ui/versions/0.1.0/tarball",
+  "_id": "terminate-ui@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-a6JUAdPC1DRpd9kPMcV75jhKZ2RMbil1qP0E4whR1ui4MQVzrMnqzyBEF5704BgFoR7eXNEPxvckZntLJcSRXA==",
+  "_location": "/terminate-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/terminate-ui/versions/0.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/terminate-ui/versions/0.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/terminate-ui/versions/0.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/terminate-ui/versions/0.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/terminate-ui/versions/0.1.0/tarball",
+  "_shasum": "6be983fb5df7faa9c213dd847756b3d65be588d2",
+  "_spec": "https://www.atom.io/api/packages/terminate-ui/versions/0.1.0/tarball",
+  "_where": "/tmp/apm-install-dir-119924-13036-cu4cdh.ilnbn",
+  "bugs": {
+    "url": "https://github.com/keithalpichi/terminate-ui/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A theme inspired by Apple's green default Terminal profile with contrasting colors to highlight important components of the UI",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/keithalpichi/terminate-ui#readme",
+  "keywords": [
+    "ui",
+    "theme",
+    "mac",
+    "terminal",
+    "vim"
+  ],
+  "license": "MIT",
+  "name": "terminate-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithalpichi/terminate-ui.git"
+  },
+  "theme": "ui",
+  "version": "0.1.0"
+}
