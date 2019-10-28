@@ -16,11 +16,11 @@
     height: @tab-height;
     line-height: @tab-height;
     font-size: @font-size;
-    border-right: 1px solid @tab-border-color;
+    border-right: 1px solid lighten(@tab-border-color, 15%);
     background-color: @tab-background-color;
     &.active {
       color: @tab-text-color;//@text-color-selected;
-      background-color: lighten(@tab-background-color, 2%);
+      background-color: lighten(@tab-background-color, 5%);
     }
 
 
