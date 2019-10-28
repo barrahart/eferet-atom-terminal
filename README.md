@@ -9,7 +9,7 @@ I'll publish it as an official Atom theme soon. Please check out the [terminate-
 ### Screenshots
 
 #### Original Theme
-![terminate-ui](https://cloud.githubusercontent.com/assets/14797743/20470446/a186741e-af5d-11e6-9cde-94a90804f15b.png)
+![terminate-ui](https://cloud.githubusercontent.com/assets/14797743/20470446/a186741e-af5d-11e6-9cde-94a90804f15b.png "terminate-ui")
 
 #### My Tweaks
-![eferet-atom-terminal](https://user-images.githubusercontent.com/24297147/67532070-d1768200-f6bc-11e9-9d58-bb6858772f27.png)
+![eferet-atom-terminal](https://user-images.githubusercontent.com/24297147/67688694-87cab780-f99a-11e9-8748-c59426547284.png "eferet-atom-terminal")
