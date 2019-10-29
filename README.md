@@ -2,9 +2,9 @@
 ---
 #### A Terminal-inspired theme for [Atom](https://github.com/atom/atom "Atom on GitHub")
 
-This theme is a fork of the [terminate-ui theme](https://github.com/keithalpichi/terminate-ui "terminate-ui on GitHub"), which is inspired by Apple's green default Terminal profile. There's not much of a difference between this fork and the original theme, just a few tweaks I thought I'd share with the world. Looks best when combined with the [terminal-syntax theme](https://github.com/sgtpepper43/terminal-syntax "terminal-syntax on GitHub").
+This theme is a fork of the [terminate-ui theme](https://atom.io/themes/terminate-ui "terminate-ui on Atom.io"). There's not much of a difference between it and the original theme, just a few tweaks I thought I'd share with the world. Looks best when combined with the [terminal-syntax theme](https://atom.io/themes/terminal-syntax "terminal-syntax on Atom.io").
 
-I'll publish it as an official Atom theme soon. Please check out the [terminate-ui repo](https://github.com/keithalpichi/terminate-ui "terminate-ui on GitHub") for more info about the original theme.
+You can check out the [terminate-ui repo](https://github.com/keithalpichi/terminate-ui "terminate-ui on GitHub") for more about the original theme.
 
 ### Screenshots
 

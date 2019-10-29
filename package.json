@@ -11,17 +11,18 @@
   "homepage": "https://github.com/DinnEferet/eferet-atom-terminal#readme",
   "keywords": [
     "ui",
+    "linux",
     "theme",
     "mac",
     "terminal",
     "vim"
   ],
   "license": "MIT",
-  "name": "terminate-ui",
+  "name": "eferet-atom-terminal",
   "repository": {
     "type": "git",
     "url" : "git+https://github.com/DinnEferet/eferet-atom-terminal.git"
   },
   "theme": "ui",
-  "version": "0.1.0"
+  "version": "0.0.0"
 }
