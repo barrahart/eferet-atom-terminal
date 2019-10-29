@@ -2,7 +2,7 @@
   "name": "eferet-atom-terminal",
   "repository": "https://github.com/DinnEferet/eferet-atom-terminal",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "bugs": {
     "url": "https://github.com/DinnEferet/eferet-atom-terminal/issues"
   },
