@@ -1,10 +1,11 @@
 {
   "name": "eferet-atom-terminal",
-  "repository": "https://github.com/DinnEferet/eferet-atom-terminal",
+  "author": "Barra Hart",
+  "repository": "https://github.com/barrahart/eferet-atom-terminal",
   "theme": "ui",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "bugs": {
-    "url": "https://github.com/DinnEferet/eferet-atom-terminal/issues"
+    "url": "https://github.com/barrahart/eferet-atom-terminal/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
@@ -12,7 +13,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/DinnEferet/eferet-atom-terminal#readme",
+  "homepage": "https://github.com/barrahart/eferet-atom-terminal",
   "keywords": [
     "ui",
     "linux",
