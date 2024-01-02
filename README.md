@@ -1,8 +1,11 @@
+#### UPDATE
+It's been real, [Atom](https://github.blog/2022-06-08-sunsetting-atom/) <3
+
 # eferet-atom-terminal theme   
 ---
-#### A Terminal-inspired theme for [Atom](https://github.com/atom/atom "Atom on GitHub")
+#### A Terminal-inspired theme for [Atom](https://github.com/atom/atom "Atom on GitHub") (RIP)
 
-This theme is a fork of the [terminate-ui theme](https://atom.io/themes/terminate-ui "terminate-ui on Atom.io"). There's not much of a difference between it and the original theme, just a few tweaks I thought I'd share with the world. Looks best when combined with the [terminal-syntax theme](https://atom.io/themes/terminal-syntax "terminal-syntax on Atom.io").
+This theme is a fork of the [terminate-ui theme](https://github.com/keithalpichi/terminate-ui "terminate-ui on GitHub"). There's not much of a difference between it and the original theme, just a few tweaks I thought I'd share with the world. Looks best when combined with the [terminal-syntax theme](https://atom.io/themes/terminal-syntax "terminal-syntax on Atom.io").
 
 You can check out the [terminate-ui repo](https://github.com/keithalpichi/terminate-ui "terminate-ui on GitHub") for more about the original theme.
 
